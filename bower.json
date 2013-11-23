@@ -1,0 +1,15 @@
+{
+  "name": "canvace",
+  "version": "0.1.0",
+  "main": "./canvace.js",
+  "description": "Canvace.js library",
+  "keywords": [
+    "canvace",
+    "game",
+    "canvas",
+    "canvace.js"
+  ],
+  "dependencies": {
+  },
+  "license": "MIT"
+}
