@@ -1,0 +1,22 @@
+{
+  "name": "canvace",
+  "version": "0.1.0",
+  "description": "Canvace.js",
+  "keywords": [
+    "canvace",
+    "canvas",
+    "game"
+  ],
+  "main": "canvace.js",
+  "license": "MIT",
+  "homepage": "https://github.com/rafinskipg/canvace",
+  "_release": "0.1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.1.0",
+    "commit": "fdddebeacdd1b2a5b5f21f4415374a285bd7060e"
+  },
+  "_source": "git://github.com/rafinskipg/canvace.git",
+  "_target": "~0.1.0",
+  "_originalSource": "canvace"
+}
